@@ -22,8 +22,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
 
 <div class="row">
-    <iframe src="assets/ppt/1.pptx">Your browser does not support.</iframe>
-
+    <iframe src="pranalikajale/pranalikajale.github.io/assets/ppt/1.pptx">Your browser does not support.</iframe>
 </div>
 
 
