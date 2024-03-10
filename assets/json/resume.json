@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Pranali Kajale",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "pranalik@umich.edu",
+    "phone": "(734) 596-8159",
+    "url": "https://pranalikajale.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1711 McIntyre Drive",
+      "postalCode": "MI 48105",
+      "city": "Ann Arbor",
       "countryCode": "US",
-      "region": "California"
+      "region": "Michigan"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Pranali-Kajale",
+        "url": "https://www.linkedin.com/in/pranali-kajale/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Magna Electronics",
+      "position": "Software Algorithm Intern - ADAS",
+      "url": "https://www.magna.com/company/company-information/magna-groups/magna-electronics",
+      "startDate": "2023-05-01",
+      "endDate": "2023-12-01",
+      "summary": "",
+      "highlights": ["Developed software interface and architecture for algorithm design of various high-speed comfort ADAS features and implemented it on MATLAB Simulink and C++ platform.","Defined and implemented a strategy to identify divided high-speed roads using Front Camera Module (FCM) inputs for activation of Lane Change Assist (LCA) feature to satisfy Euro NCAP regulations.","Performed system identification and PID tunning for steering torque based on steering angle command.", "Validated ASIL-B units of ADAS features, aligning with ISO 26262 standards through unit testing.","Root-caused and fixed over 50 defects of Auto High Beam assist, Traffic sign and light recognition features using Vector CANoe and Simulink software.","Tested and tuned control algorithms across MiL, SiL, HiL, and Vehicle System environments using platforms like IPG CarMaker, Vector CAN tools, dSpace and Lauterbach debugger tools."]
     }
   ],
   "volunteer": [
