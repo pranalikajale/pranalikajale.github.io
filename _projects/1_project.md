@@ -6,6 +6,9 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
+images:
+  compare: true
+  slider: true
 ---
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
