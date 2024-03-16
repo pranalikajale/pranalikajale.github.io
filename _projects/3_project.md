@@ -4,7 +4,7 @@ title: Connected Cruise Control
 description: 
 img: assets/img/7.jpg
 importance: 3
-category: 
+# category: 
 images:
   compare: true
   slider: true

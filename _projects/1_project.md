@@ -4,7 +4,7 @@ title: Adaptive Cruise Control
 description: 
 img: assets/img/ACC_front.jpg
 importance: 1
-category: 
+# category: 
 related_publications: true
 images:
   compare: true

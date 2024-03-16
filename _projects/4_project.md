@@ -4,7 +4,7 @@ title: Active Control of a Vehicle Anti-Roll Bar
 description: 
 img: assets/img/7.jpg
 importance: 3
-category: 
+# category: 
 images:
   compare: true
   slider: true
