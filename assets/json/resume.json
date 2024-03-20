@@ -62,45 +62,45 @@
       "name": "Adaptive Cruise Control",
       "summary": "",
       "highlights": ["Designed an ACC with distance & speed control and integrated a haptic steering simulation interface.", "Implemented an automatic steering using a PID controller to keep the simulated vehicle on the centerline of the road in MATLAB Simulink. Auto-code Generation to NXP microcontroller.","Established CAN vehicle communication to simulate different scenarios designed on MATLAB Roadrunner."],
-      // "startDate": "2018-01-01",
-      // "endDate": "2018-01-01",
-      "releaseDate": "2023-05-01",
+      "startDate": "2023-01-01",
+      "endDate": "2023-05-01",
+      // "releaseDate": "2023-05-01",
       "url": "https://pranalikajale.github.io/projects/1_project/"
     },
     {
       "name": "Autonomous Racing Vehicle",
       "summary": "",
       "highlights": ["Automated a rear-wheel-drive front-wheel-steer bicycle model based Formula One car in MATLAB.", "Developed a race line tracking feedback controller that calculates the corrective steering angle at each moment by analyzing the deviation between the vehicle’s position and the race line.","Created a velocity controller factoring in driving and lateral forces constraints to achieve an optimized lap time of 171.75 seconds specific to the ‘Circuit of America’ track."],
-      // "startDate": "2018-01-01",
-      // "endDate": "2018-01-01",
-      "releaseDate": "2023-05-01",
+      "startDate": "2023-01-01",
+      "endDate": "2023-05-01",
+      // "releaseDate": "2023-05-01",
       "url": "https://pranalikajale.github.io/projects/2_project/"
     },
     {
       "name": "Connected Cruise Control",
       "summary": "",
       "highlights": ["Designed a cruise controller for the connected automated vehicle to ensure that it matches its speed to the speeds of its predecessors while keeping a safe distance.","Utilized velocity and acceleration data from V2V connectivity of six predecessor vehicles in the controller.","Reduced energy usage by 5.5% while staying 5m behind the lead vehicle with controller tuning."],
-      // "startDate": "2018-01-01",
-      // "endDate": "2018-01-01",
-      "releaseDate": "2023-05-01",
+      "startDate": "2023-01-01",
+      "endDate": "2023-05-01",
+      // "releaseDate": "2023-05-01",
       "url": "https://pranalikajale.github.io/projects/3_project/"
     },
     {
       "name": "Active Control of a Vehicle Anti-Roll Bar",
       "summary": "",
       "highlights": ["Developed a PID controller with a roll moment rejection loop for an active anti-roll bar in the vehicle.","Derived a 14 DOF full vehicle model consisting of ride, handling, and tire subsystems to study vehicle dynamics behavior in the lateral direction.","Validated the reduction of unwanted vehicle motions during cornering maneuvers such as body roll angle, body roll rate, vertical acceleration and body heave using MATLAB Simulink."],
-      // "startDate": "2018-01-01",
-      // "endDate": "2018-01-01",
-      "releaseDate": "2023-12-01",
+      "startDate": "2022-08-01",
+      "endDate": "2022-12-01",
+      // "releaseDate": "2023-12-01",
       "url": "https://pranalikajale.github.io/projects/4_project/"
     },
     {
       "name": "Suspension System of Solar Electric Vehicle, Team Hyperion",
       "summary": "",
       "highlights": ["Designed the vehicle dynamic system including the geometry construction, wheel assembly & component designing and dynamic performance analysis with SolidWorks, Ansys and Lotus suspension software.","Designed the vehicle dynamic system including the geometry construction, wheel assembly & component designing and dynamic performance analysis with SolidWorks, Ansys and Lotus suspension software."],
-      // "startDate": "2018-01-01",
-      // "endDate": "2018-01-01",
-      "releaseDate": "2023-12-01",
+      "startDate": "2019-06-01",
+      "endDate": "2020-05-01",
+      // "releaseDate": "2023-12-01",
       "url": "https://pranalikajale.github.io/projects/4_project/"
     }
   ],
@@ -116,6 +116,32 @@
         "MultiBody Dynamics",
         "Computer-aided engineering(CAE)",
         "Computer-aided Design(CAD)"
+      ]
+    },
+    {
+      "name": "Software:",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MATLAB",
+        "Simulink",
+        "IPG CarMaker",
+        "SolidWorks",
+        "CANoe",
+        "Trace32",
+        "dSpace"
+      ]
+    },
+    {
+      "name": "Programming Language:",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "Embedded C",
+        "Arduino IDE"
       ]
     }
   ],
@@ -136,6 +162,15 @@
       "icon": ""
     }
   ]
+  // "awards": [
+  //   {
+  //     "title": "Nobel Prize in Physics",
+  //     "date": "1921-11-01",
+  //     "awarder": "Royal Swedish Academy of Sciences",
+  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+  //   }
+  // ]
     // "volunteer": [
   //   {
   //     "organization": "People's Climate March",
@@ -145,15 +180,6 @@
   //     "endDate": "2015-07-01",
   //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
   //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-  //   }
-  // ],
-    // "awards": [
-  //   {
-  //     "title": "Nobel Prize in Physics",
-  //     "date": "1921-11-01",
-  //     "awarder": "Royal Swedish Academy of Sciences",
-  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
   //   }
   // ],
   // "certificates": [
@@ -223,10 +249,6 @@
   //     "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
   //   }
   // ],
-  // "Patent":[
-  //   {
-  //     "name": "Removable Steering Wheel Mechanism",
-  //   }
   // ],
   // "interests": [
   //   {
